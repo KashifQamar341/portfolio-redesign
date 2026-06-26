@@ -135,8 +135,7 @@ export function Hero() {
                 className="mx-auto h-40 w-40 rounded-2xl object-cover" />
             */}
            <img
-  src={`/portfolio-redesign${profile.avatar}`}
-  alt={profile.name}
+src="/portfolio-redesign/profile.jpg"  alt={profile.name}
   className="mx-auto h-36 w-36 rounded-2xl object-cover"
 />
 
