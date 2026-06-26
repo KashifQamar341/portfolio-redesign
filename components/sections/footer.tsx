@@ -60,7 +60,7 @@ export function Footer() {
           <p>
             © {year} {profile.name} · {profile.program} · {profile.shortUniversity}
           </p>
-          <p>Built with Next.js, Tailwind CSS &amp; Framer Motion.</p>
+          <p>© 2026 Kashif Qamar · All rights reserved.</p>
         </div>
       </div>
     </footer>
