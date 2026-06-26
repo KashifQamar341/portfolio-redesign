@@ -148,9 +148,9 @@ export const education: EducationItem[] = [
   {
     period: 'Completed',
     title: 'Intermediate (Pre-Medical)',
-   institution: 'TODO: add your college name',
+   institution: 'TODO: New Aligarh College Tando Adam',
 description:
-  'Completed intermediate studies with a focus on Biology, Chemistry and Physics (Pre-Medical), which developed my analytical thinking and problem-solving skills.',
+  'Completed Intermediate, building a strong foundation in critical thinking, problem-solving, and analytical thinking that continues to support my journey in Artificial Intelligence..',
   },
 ]
 
