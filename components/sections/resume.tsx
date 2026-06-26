@@ -27,14 +27,14 @@ export function Resume() {
               </p>
             </div>
             <div className="flex flex-wrap items-center justify-center gap-3">
-              <a
+              {/* <a
                 href={profile.resumeUrl}
                 download
                 className="inline-flex items-center gap-2 rounded-xl bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
               >
                 <Download className="h-4 w-4" />
                 Download Resume (PDF)
-              </a>
+              </a> */}
               <a
                 href={`mailto:${profile.email}`}
                 className="inline-flex items-center gap-2 rounded-xl border border-border px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:text-primary"
