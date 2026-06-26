@@ -103,14 +103,14 @@ export function Hero() {
               View Projects
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </a>
-            <a
+            {/* <a
               href={profile.resumeUrl}
               download
               className="inline-flex items-center gap-2 rounded-xl border border-border bg-card/40 px-6 py-3 text-sm font-semibold text-foreground transition-colors hover:border-primary/50 hover:text-primary"
             >
               <Download className="h-4 w-4" />
               Download Resume
-            </a>
+            </a> */}
           </motion.div>
         </motion.div>
 
