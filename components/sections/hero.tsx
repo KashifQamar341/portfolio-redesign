@@ -134,11 +134,11 @@ export function Hero() {
               <Image src="/your-photo.jpg" alt="Kashif Baloch" width={160} height={160}
                 className="mx-auto h-40 w-40 rounded-2xl object-cover" />
             */}
-            <div className="relative mx-auto flex h-36 w-36 items-center justify-center rounded-2xl border border-border bg-gradient-to-br from-primary/25 to-sky-500/10">
-              <span className="font-heading text-5xl font-bold gradient-text">
-                {profile.initials}
-              </span>
-            </div>
+           <img
+  src={`/portfolio-redesign${profile.avatar}`}
+  alt={profile.name}
+  className="mx-auto h-36 w-36 rounded-2xl object-cover"
+/>
 
             <div className="mt-6 text-center">
               <h2 className="font-heading text-xl font-bold">{profile.name}</h2>
