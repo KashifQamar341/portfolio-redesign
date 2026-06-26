@@ -147,7 +147,7 @@ export const education: EducationItem[] = [
   },
   {
     period: 'Completed',
-    title: 'Intermediate (Pre-Engineering / Computer Science)',
+    title: 'Intermediate (Pre-Medical)',
     institution: 'TODO: add your college name',
     description:
       'Completed intermediate studies with a focus on mathematics and computer science, which built the foundation for my university degree in AI.',
