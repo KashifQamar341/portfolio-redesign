@@ -33,6 +33,7 @@ export type IconType = React.ComponentType<{ className?: string; size?: number }
 export const profile = {
   name: 'Kashif Qamar',
   initials: 'KQ',
+    avatar: '/profile.jpg',
   role: 'AI Student & Software Developer',
   // Short rotating phrases for the hero typing effect
   typingRoles: [
