@@ -279,8 +279,7 @@ export const projects: Project[] = [
     description:
       'A complete console-based hospital management system written in C++. It features admin login and signup with file-based authentication, full patient record management (add, view, and remove), doctor-wise filtering, and a patient self-service portal — all backed by fstream for persistent storage.',
     technologies: ['C++', 'OOP', 'File I/O', 'fstream', 'Console UI'],
-    image: '/projects/hospital-management-system.png',
-    github: 'https://github.com/KashifQamar341/Hospital-Management-System',
+image: 'https://kashifqamar341.github.io/portfolio-redesign/projects/hospital-management-system.png',    github: 'https://github.com/KashifQamar341/Hospital-Management-System',
     featured: true,
   },
   {
@@ -289,8 +288,7 @@ export const projects: Project[] = [
     description:
       'A desktop Resume Maker built with Java Swing. Users enter their personal details, education, skills, and experience through a clean graphical interface, and the app formats and renders a professional resume layout. The project sharpened my skills in OOP, event handling, and layout management.',
     technologies: ['Java', 'Swing', 'OOP', 'Event Handling', 'JFrame'],
-    image: '/projects/resume-maker.png',
-    github: 'https://github.com/KashifQamar341/Resume_Maker-',
+image: 'https://kashifqamar341.github.io/portfolio-redesign/projects/resume-maker.png',    github: 'https://github.com/KashifQamar341/Resume_Maker-',
     featured: true,
   },
   {
@@ -311,8 +309,7 @@ export const projects: Project[] = [
     description:
       'As my AI degree advances, this space will hold my first machine learning project — likely a classifier or data-driven tool built with Python. TODO: replace with your real project details, repo, and demo.',
     technologies: ['Python', 'NumPy', 'pandas', 'scikit-learn'],
-    image: '/projects/portfolio-website.png', // TODO: replace with the real project image
-    featured: false,
+image: 'https://kashifqamar341.github.io/portfolio-redesign/projects/portfolio-website.png',    featured: false,
     comingSoon: true,
   },
   {
