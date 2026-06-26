@@ -85,7 +85,7 @@ export const socials: SocialLink[] = [
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/kashifabloch26',
+    href: 'https://www.instagram.com/kashifbaloch5276?igsh=MWkxN2w2eHdhOTBvNg==',
     icon: InstagramIcon,
   },
   {
