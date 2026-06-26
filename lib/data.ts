@@ -291,17 +291,17 @@ image: 'https://kashifqamar341.github.io/portfolio-redesign/projects/hospital-ma
 image: 'https://kashifqamar341.github.io/portfolio-redesign/projects/resume-maker.png',    github: 'https://github.com/KashifQamar341/Resume_Maker-',
     featured: true,
   },
-  {
-    title: 'Portfolio Website',
-    category: 'Personal · Next.js · TypeScript',
-    description:
-      'This portfolio — a fast, accessible, and fully responsive website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Designed to present my work cleanly to recruiters with smooth animations and a premium dark interface.',
-    technologies: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-    image: '/projects/portfolio-website.png',
-    github: 'https://github.com/KashifQamar341', // TODO: link this portfolio's repository once pushed
-    demo: '#hero',
-    featured: true,
-  },
+  // {
+  //   title: 'Portfolio Website',
+  //   category: 'Personal · Next.js · TypeScript',
+  //   description:
+  //     'This portfolio — a fast, accessible, and fully responsive website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Designed to present my work cleanly to recruiters with smooth animations and a premium dark interface.',
+  //   technologies: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
+  //   image: '/projects/portfolio-website.png',
+  //   github: 'https://github.com/KashifQamar341', // TODO: link this portfolio's repository once pushed
+  //   demo: '#hero',
+  //   featured: true,
+  // },
   // ---- Placeholders for future AI projects (easy to fill in later) ----
   {
     title: 'AI Project — Coming Soon',
