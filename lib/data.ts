@@ -31,8 +31,8 @@ export type IconType = React.ComponentType<{ className?: string; size?: number }
 /* -------------------------------------------------------------------------- */
 
 export const profile = {
-  name: 'Kashif Baloch',
-  initials: 'KB',
+  name: 'Kashif Qamar',
+  initials: 'KQ',
   role: 'AI Student & Software Developer',
   // Short rotating phrases for the hero typing effect
   typingRoles: [
@@ -50,9 +50,9 @@ export const profile = {
   email: 'balochkashif283@gmail.com',
   // TODO: add your phone number here if you'd like it shown
   availability: 'Open to Internships & Entry-Level Roles',
-  // Place your resume PDF at /public/resume/Kashif-Baloch-Resume.pdf
+  // Place your resume PDF at /public/resume/Kashif-Qamar-Resume.pdf
   // TODO: add your actual resume PDF to the public/resume folder
-  resumeUrl: '/resume/Kashif-Baloch-Resume.pdf',
+  resumeUrl: '/resume/Kashif-Qamar-Resume.pdf',
 }
 
 /* -------------------------------------------------------------------------- */
@@ -103,7 +103,7 @@ export const githubUrl = 'https://github.com/KashifQamar341'
 
 export const aboutContent = {
   paragraphs: [
-    "I'm Kashif Baloch, a second-year BS Artificial Intelligence student at Aror University in Sukkur, Pakistan, currently in my third semester. I believe the fastest way to learn is to build, so I treat every concept I study as something to turn into working software.",
+    "I'm Kashif , a second-year BS Artificial Intelligence student at Aror University in Sukkur, Pakistan, currently in my third semester. I believe the fastest way to learn is to build, so I treat every concept I study as something to turn into working software.",
     'In my first semester I built a complete Hospital Management System in C++ — handling authentication, record management, and persistent file storage. I followed it up with a GUI-based Resume Maker that taught me event-driven design and clean interface structure.',
     "Right now I'm focused on Python and the fundamentals of machine learning, working toward building intelligent systems that solve real problems. I'm genuinely curious, comfortable with self-directed learning, and eager to contribute to a team as an intern or junior developer.",
   ],
