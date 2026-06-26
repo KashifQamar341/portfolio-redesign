@@ -64,7 +64,7 @@ export function Hero() {
             variants={item}
             className="mt-4 text-lg font-medium text-muted-foreground sm:text-xl"
           >
-            <span className="text-foreground">I&apos;m a </span>
+            <span className="text-foreground">I&apos;m a/an </span>
             <TypingText
               phrases={profile.typingRoles}
               className="font-semibold text-primary"
